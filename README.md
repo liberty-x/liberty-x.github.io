@@ -1,2 +1,10 @@
 # liberty-x.github.io
-blog
+
+Split up:
+
+Rachel: Footer and Header
+
+Huw: Splash
+
+Justen and Ruth: Bios 
+
