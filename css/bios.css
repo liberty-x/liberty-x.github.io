@@ -1,0 +1,55 @@
+.biorow1{
+  clear:both;
+  width: 100%;
+}
+
+.biorow2{
+  clear:both;
+  width: 100%;
+  padding-top: 50px;
+}
+
+.biopic {
+  float: left;
+  width: 20%;
+  border: 3px #edeef0;
+  border-style:solid;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 1em;
+  border-radius: 100%;
+}
+
+.bious{
+  border-radius: 100%;
+}
+
+.bious:hover{
+  opacity: 0.7;
+}
+
+.biotext {
+  float: left;
+  width: 25%;
+}
+
+.biotext p {
+  text-align: justify;
+  position: relative;
+  top: -10px;
+  padding-right: 25px;
+}
+
+.biotitle{
+  text-align: center;
+  padding-bottom: 70px;
+}
+
+.biosocialmedia {
+  border-radius: 100%;
+  height: 1.5em;
+}
+
+h3 {
+  font-weight: bold;
+}
