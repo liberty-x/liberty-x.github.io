@@ -64,6 +64,7 @@ h3 {
   .biopic{
     width: 100%;
     margin-top: 1em;
+    border-style: none;
   }
 
   .bious{
