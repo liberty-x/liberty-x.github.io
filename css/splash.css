@@ -39,8 +39,8 @@ http://picresize.com/images/rsz_backgroundimg.jpg {
    letter-spacing: -1px;
    background: rgb(0, 0, 0);
    background: rgba(0, 0, 0, 0.7);
-   padding: 10px;
-   padding-bottom: 45px;
+   padding: 0.1em;
+   padding-bottom: 0.3em;
    padding-right: 1.31em;
    padding-left: 1.31em;
 }
