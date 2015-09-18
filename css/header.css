@@ -1,20 +1,24 @@
 .site-header {
-	margin-top: 0px;
-	border: 0px;
-}
-.wrapper {
-	padding: 0px;
+	margin-top: 0;
+	border: 0;
+	position: fixed;
+	background-color: #F3F5F4;
+	width: 100%;
+	z-index: 1;
 }
 
 .site-header a {
 	text-decoration: none;
+	float: right;
 }
 .site-header li {
-	display: inline;
 	float: left;
 	padding-left: 5%;
-
+	list-style-type: none;
 }
-.header-left {
+.site-header ul {
 	float:right;
+  width: 100%;
+	margin-right: -65%;
+	margin-bottom: 0;
 }
