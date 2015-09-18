@@ -1,0 +1,24 @@
+.post {
+	padding: 5%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.post-header {
+	text-align: center;
+}
+.post-content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 55em;
+    text-align: center;
+}
+
+
+@media screen and (max-width: 875px){
+
+.post-content {
+	width: 20em;
+	}
+
+}
