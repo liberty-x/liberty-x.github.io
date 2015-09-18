@@ -6,13 +6,13 @@
 .biogrow2{
   clear:both;
   width: 100%;
-  padding-top: 50px;
+  padding-top: 3em;
 }
 
 .biogpic {
   float: left;
   width: 20%;
-  border: 3px #edeef0;
+  border: 0.2em #edeef0;
   border-style:solid;
   margin-left: 2%;
   margin-right: 2%;
@@ -37,13 +37,13 @@
   text-align: justify;
   position: relative;
   top: -10px;
-  padding-right: 25px;
+  padding-right: 1em;
 }
 
 .biogtitle{
   text-align: center;
-  padding-bottom: 70px;
-  padding-top: 100px;
+  padding-bottom: 2em;
+  padding-top: 3em;
 }
 
 .biogsocialmedia {
