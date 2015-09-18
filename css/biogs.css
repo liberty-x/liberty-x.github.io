@@ -1,15 +1,15 @@
-.biorow1{
+.biogrow1{
   clear:both;
   width: 100%;
 }
 
-.biorow2{
+.biogrow2{
   clear:both;
   width: 100%;
   padding-top: 50px;
 }
 
-.biopic {
+.biogpic {
   float: left;
   width: 20%;
   border: 3px #edeef0;
@@ -20,39 +20,39 @@
   border-radius: 100%;
 }
 
-.bious{
+.biogus{
   border-radius: 100%;
 }
 
-.bious:hover{
+.biogus:hover{
   opacity: 0.7;
 }
 
-.biotext {
+.biogtext {
   float: left;
   width: 25%;
 }
 
-.biotext p {
+.biogtext p {
   text-align: justify;
   position: relative;
   top: -10px;
   padding-right: 25px;
 }
 
-.biotitle{
+.biogtitle{
   text-align: center;
   padding-bottom: 70px;
   padding-top: 100px;
 }
 
-.biosocialmedia {
+.biogsocialmedia {
   border-radius: 100%;
   height: 1.5em;
   margin-right: 1em;
 }
 
-.biosocialmedia:hover{
+.biogsocialmedia:hover{
   opacity: 0.5;
 }
 
@@ -61,19 +61,19 @@ h3 {
 }
 
 @media screen and (max-width: 875px){
-  .biopic{
+  .biogpic{
     width: 100%;
     margin-top: 1em;
     border-style: none;
   }
 
-  .bious{
+  .biogus{
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
 
-  .biotext{
+  .biogtext{
     width: 100%;
     text-align: center;
     margin-left: 1em;
