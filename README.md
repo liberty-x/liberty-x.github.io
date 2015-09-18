@@ -1,7 +1,19 @@
-# Our Website! 
-# Goals for wesbite:
+## Liberty-X Website:
+### What? 
 
-## Thursday (17th Sept) plan:
+Build a blog using Github Pages, to document work at FAC in opening weeks. 
+
+### Why?
+
+ * Get familiar with a wide range of web technologies and tools
+ * Get used to working together in groups
+ * Produce a lasting record of our experience at FAC
+
+### How?
+
+We will be employing mainly HTML & CSS within the Jekyll framework. Our activity objectives are below:
+
+#### Thursday (17th Sept) plan:
 
 Nav bar at top which will direct to different places on the page. (Rachel)
 
@@ -11,7 +23,7 @@ Bios immediately underneath splash image, which shows circular head pics, with t
 
 Footer at bottom with correct links and short description of our team (Rachel)  
 
-## Friday (18th Sept) plan:
+#### Friday (18th Sept) plan:
 
 Resolve Nav Bar issues (Ruth and Rachel)
 Resolve issues from code review (Justen and Huw) 
