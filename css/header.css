@@ -2,7 +2,7 @@
 	position: fixed;
 	background-color: #F3F5F4;
 	width: 100%;
-	z-index: 1;
+	z-index: 1001;
 }
 
 .navbar a {
@@ -26,4 +26,10 @@
 	float: left;
 	padding-left: 2em;
 	padding-top: 0.9em;
+}
+
+@media screen and (max-width: 875px) {
+	.navbar li {
+		font-size: 1em;
+	}
 }
