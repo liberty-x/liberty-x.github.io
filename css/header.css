@@ -1,24 +1,29 @@
-.site-header {
-	margin-top: 0;
-	border: 0;
+.navbar {
 	position: fixed;
 	background-color: #F3F5F4;
 	width: 100%;
-	z-index: 1;
+	z-index: 1001;
 }
 
-.site-header a {
+.navbar a {
 	text-decoration: none;
-	float: right;
 }
-.site-header li {
+
+.navbar li {
 	float: left;
-	padding-left: 5%;
+	padding-right: 2em;
 	list-style-type: none;
+	font-size: 1.5em;
 }
-.site-header ul {
+.navbar ul {
 	float:right;
-  width: 100%;
-	margin-right: -65%;
-	margin-bottom: 0;
+	padding-top: 1em;
+}
+
+.libertyxlogo img {
+	width: 3%;
+	clear: both;
+	float: left;
+	padding-left: 2em;
+	padding-top: 0.9em;
 }
