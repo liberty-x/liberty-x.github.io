@@ -26,6 +26,7 @@
 
 .biogus:hover{
   opacity: 0.7;
+  transition: opacity 1s;
 }
 
 .biogtext {
@@ -54,6 +55,7 @@
 
 .biogsocialmedia:hover{
   opacity: 0.5;
+  transition: opacity 0.5s;
 }
 
 h3 {
